@@ -1,0 +1,270 @@
+[
+    [
+        "/Users/robertwalc/Applications/git/enxdev/force-app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/robertwalc/Applications/git/enxdev/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1517502966486,
+            "changeTime": 1517502966486,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/robertwalc/Applications/git/enxdev/force-app/main",
+        {
+            "state": "n",
+            "sourcePath": "/Users/robertwalc/Applications/git/enxdev/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1517502966486,
+            "changeTime": 1517502966486,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/robertwalc/Applications/git/enxdev/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertwalc/Applications/git/enxdev/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 224,
+            "modifiedTime": 1517504704474,
+            "changeTime": 1517504704474,
+            "contentHash": "b2e413674f98340eeb6ab60f83200a9c2d0faefb"
+        }
+    ],
+    [
+        "/Users/robertwalc/Applications/git/enxdev/force-app/main/default/aura",
+        {
+            "state": "n",
+            "sourcePath": "/Users/robertwalc/Applications/git/enxdev/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1517502966486,
+            "changeTime": 1517502966486,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/robertwalc/Applications/git/enxdev",
+        {
+            "state": "n",
+            "sourcePath": "/Users/robertwalc/Applications/git/enxdev",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 256,
+            "modifiedTime": 1517503573843,
+            "changeTime": 1517503573843,
+            "contentHash": "07da07834d8f50a1018cf646c911906296572a7c",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/robertwalc/Applications/git/enxdev/force-app/main/default/objects/Account/fields/IsTrue__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertwalc/Applications/git/enxdev/force-app/main/default/objects/Account/fields/IsTrue__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 324,
+            "modifiedTime": 1517504704417,
+            "changeTime": 1517504704417,
+            "contentHash": "c00257db80e3bc3cef1e7fa0ce95d331cd0866ae"
+        }
+    ],
+    [
+        "/Users/robertwalc/Applications/git/enxdev/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertwalc/Applications/git/enxdev/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9706,
+            "modifiedTime": 1517504704427,
+            "changeTime": 1517504704427,
+            "contentHash": "784298eda10c89fa69772da95d0742721d362d52"
+        }
+    ],
+    [
+        "/Users/robertwalc/Applications/git/enxdev/force-app/main/default/layouts/Account-Account %28Sales%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertwalc/Applications/git/enxdev/force-app/main/default/layouts/Account-Account %28Sales%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9706,
+            "modifiedTime": 1517504704437,
+            "changeTime": 1517504704437,
+            "contentHash": "a443afa631aab281c0e016f3ff758acf151992a0"
+        }
+    ],
+    [
+        "/Users/robertwalc/Applications/git/enxdev/force-app/main/default/layouts/Account-Account %28Support%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertwalc/Applications/git/enxdev/force-app/main/default/layouts/Account-Account %28Support%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9754,
+            "modifiedTime": 1517504704446,
+            "changeTime": 1517504704446,
+            "contentHash": "2a9b77d902a4fad6ce0f53d6260e3f1d8eb100c2"
+        }
+    ],
+    [
+        "/Users/robertwalc/Applications/git/enxdev/force-app/main/default/layouts/Account-Account %28Marketing%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertwalc/Applications/git/enxdev/force-app/main/default/layouts/Account-Account %28Marketing%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9754,
+            "modifiedTime": 1517504704455,
+            "changeTime": 1517504704455,
+            "contentHash": "ea482374d26149b4f7b118f7e7041e863b05763f"
+        }
+    ],
+    [
+        "/Users/robertwalc/Applications/git/enxdev/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertwalc/Applications/git/enxdev/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4371,
+            "modifiedTime": 1517504704460,
+            "changeTime": 1517504704460,
+            "contentHash": "2f6dafc312ce7e24e3ae0d7057d27601cbfed7e5"
+        }
+    ],
+    [
+        "/Users/robertwalc/Applications/git/enxdev/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertwalc/Applications/git/enxdev/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4367,
+            "modifiedTime": 1517504704468,
+            "changeTime": 1517504704468,
+            "contentHash": "d9ce04bbba606d46c04c39dde495abd98f9a238e"
+        }
+    ],
+    [
+        "/Users/robertwalc/Applications/git/enxdev/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertwalc/Applications/git/enxdev/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4707,
+            "modifiedTime": 1517504704472,
+            "changeTime": 1517504704472,
+            "contentHash": "16c303a446aa30e5166a74629cc00f174f611661"
+        }
+    ],
+    [
+        "/Users/robertwalc/Applications/git/enxdev/force-app/main/default/permissionsets/TrueSet.permissionset-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertwalc/Applications/git/enxdev/force-app/main/default/permissionsets/TrueSet.permissionset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 394,
+            "modifiedTime": 1517504704474,
+            "changeTime": 1517504704474,
+            "contentHash": "d4430e4bfbd74482a6b0c3784c72a80d8a04d5f9"
+        }
+    ],
+    [
+        "/Users/robertwalc/Applications/git/enxdev/force-app/main/default/objects/Account/fields",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertwalc/Applications/git/enxdev/force-app/main/default/objects/Account/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1517504704416,
+            "changeTime": 1517504704416,
+            "contentHash": "4271f56ecd401f91fa55da8c94411b2b35f37207"
+        }
+    ],
+    [
+        "/Users/robertwalc/Applications/git/enxdev/force-app/main/default/objects/Account",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertwalc/Applications/git/enxdev/force-app/main/default/objects/Account",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1517504704415,
+            "changeTime": 1517504704415,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+        }
+    ],
+    [
+        "/Users/robertwalc/Applications/git/enxdev/force-app/main/default/objects",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertwalc/Applications/git/enxdev/force-app/main/default/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1517504704415,
+            "changeTime": 1517504704415,
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5"
+        }
+    ],
+    [
+        "/Users/robertwalc/Applications/git/enxdev/force-app/main/default/layouts",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertwalc/Applications/git/enxdev/force-app/main/default/layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1517504704455,
+            "changeTime": 1517504704455,
+            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0"
+        }
+    ],
+    [
+        "/Users/robertwalc/Applications/git/enxdev/force-app/main/default/profiles",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertwalc/Applications/git/enxdev/force-app/main/default/profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1517504704472,
+            "changeTime": 1517504704472,
+            "contentHash": "f4204eb1656efea8c3733cf8481ab7fd4906f3b3"
+        }
+    ],
+    [
+        "/Users/robertwalc/Applications/git/enxdev/force-app/main/default/permissionsets",
+        {
+            "state": "u",
+            "sourcePath": "/Users/robertwalc/Applications/git/enxdev/force-app/main/default/permissionsets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1517504704474,
+            "changeTime": 1517504704474,
+            "contentHash": "2940db6afbc29e660a85315e73e2582490bc8864"
+        }
+    ]
+]
